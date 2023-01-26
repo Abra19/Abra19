@@ -1,6 +1,15 @@
 <h2>Hi 👋, I'm Elena!</h2>
 <p>I'm a junior frontend developer from Moscow and i'm looking for a job!</p>
 
+### My Background
+  Frontend Developer Profession, Hexlet
+
+  Mathematician, Ph.D. in physics and mathematics, Department of Mechanics and Mathematics, Moscow State University
+
+  Financial Management, Financial University under the Government of the Russian Federation
+
+
+
 ### My contacts
 [Email](mailto:evabrarova@gmail.com)
 
