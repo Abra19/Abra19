@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi 👋, I'm Elena!
+### I'm a junior frontend developer from Moscow and i'm looking for a job mostly in remote format!
+### Contact me
+[Email](mailto:evabrarova@gmail.com) [Telegram](https://t.me/EAbra19)
 
-<!--
-**Abra19/Abra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 View my [projects](https://github.com/Abra19?tab=repositories)
 
-Here are some ideas to get you started:
+- 👨 Read my [CV](https://cv.hexlet.io/resumes/1860)
+  
+- 👯 Visit my [Hexlet profile](https://ru.hexlet.io/u/user-cee6247cf792bcab)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My Hard Skills
+  - HTML5, CSS3 / SCSS, Pug
+  - Bootstrap
+  - JavaScript(ES6+), Node.js
+  - Typescript
+  - React / React Hooks
+  - Redux / Redux Toolkit
+  - Jest, Selenium, Puppeteer, Testing Library React
+  - C
+  - Git, GitHub Actions(CI)
+  - Webpack, Gulp
+  - Docker
+  - PostgreSQL
+
+  ![React](https://img.shields.io/badge/-React-1e90ff?logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-ffffe0?logo=html5) 
