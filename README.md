@@ -29,7 +29,7 @@
 
 <br>
 
-[![Codewars Badge](https://www.codewars.com/users/Abra19/badges/small)](https://www.codewars.com/users/Abra19)
+[![Codewars Badge](https://www.codewars.com/users/Abra19/badges/micro)](https://www.codewars.com/users/Abra19)
 
 <br>
 
