@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Elena!</h2>
-<p>I'm a junior frontend developer from Moscow and i'm looking for a job!</p>
+<p>I'm a junior frontend developer from Moscow!</p>
 
 ### My Background
   Frontend Developer Profession, Hexlet
