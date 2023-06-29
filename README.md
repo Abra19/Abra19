@@ -25,10 +25,6 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abra19)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 [![Codewars Badge](https://www.codewars.com/users/Abra19/badges/micro)](https://www.codewars.com/users/Abra19)
 
 <br>
