@@ -3,8 +3,11 @@
 
 ### My Background
   Frontend Developer Profession, Hexlet
+  
   Python Developer Profession, Hexlet
+  
   Docker, karpov.courses
+  
   SQL, karpov.courses
 
   Mathematician, Ph.D. in physics and mathematics, Department of Mechanics and Mathematics, Moscow State University
